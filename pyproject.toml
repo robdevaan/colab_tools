@@ -1,0 +1,12 @@
+[project]
+name = "colab-tools"
+version = "0.1.0"
+description = "A set of convenience tools for Google Colab. Currently primarily aimed at display, e.g. displaying Markdown."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "ipython>=9.15.0",
+]
