@@ -219,3 +219,6 @@ __marimo__/
 
 # Playground / Experiment files and directories
 .playground/
+
+# Exclude certain test files, e.g. local test notebooks
+tests/*.ipynb
